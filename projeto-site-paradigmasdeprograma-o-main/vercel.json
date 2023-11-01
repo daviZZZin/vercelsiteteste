@@ -1,0 +1,12 @@
+{
+    "routes": [
+      {
+        "src": "/n1",
+        "dest": "/pages/n1.html"
+      },
+      {
+        "src": "/n2",
+        "dest": "/pages/n2.html"
+      }
+    ]
+  }
